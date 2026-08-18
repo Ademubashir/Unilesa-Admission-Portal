@@ -1,13 +1,13 @@
-# Unilesa Admission Portal
+# 📸 Unilesa Admission Portal
 
 A front-end recreation of the Unilesa admission website.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - HTML
 - CSS
 
-## Features
+## ✨ Features
 
 - News-style homepage
 - Non-Responsive layout
